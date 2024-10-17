@@ -1,0 +1,40 @@
+{
+  "en": {
+    "translation": {
+      "security": "A SECURITY SOLUTION",
+      "keep" : "Keep track of your loved ones in real time",
+      "we": "We noticed the high level of insecurity in the world, and we thought of how technology could be used to combat these insecurities.",
+      "join": "Join Our Waitlist!",
+      "first":" Be the first to get notified when the product is ready!"
+     
+    }
+  },
+  "rus": {
+    "translation": {
+      "security": "РЕШЕНИЕ БЕЗОПАСНОСТИ",
+         "keep" : "Следите за своими близкими в режиме реального времени",
+         "we": "Мы заметили высокий уровень незащищенности в мире и задумались о том, как можно использовать технологии для борьбы с этой незащищенностью.",
+         "join": "Присоединяйтесь к нашему списку ожидани",
+         "first":"Получите уведомление первым, когда продукт будет готов!"
+    }
+  },
+  "uz": {
+    "translation": {
+      "security": "XAVFSIZLIK YECHIMI",
+       "keep" : "Haqiqiy vaqtda yaqinlaringizni kuzatib boring",
+       "we": "Biz dunyoda yuqori darajadagi ishonchsizlikni payqadik va bu ishonchsizliklarga qarshi kurashish uchun texnologiyadan qanday foydalanish mumkinligi haqida o'yladik.",
+       "join": "Kutish roʻyxatimizga qoʻshiling!",
+       "first":"Mahsulot tayyor bo'lganda birinchilardan bo'lib xabardor bo'ling!"
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+}
